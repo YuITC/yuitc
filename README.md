@@ -4,13 +4,15 @@
 [![Linkedin link](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/tainguyenphu2502/)
 [![Facebook link](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/taiphu2502/)
 
-## 🙋‍♂️ About me
+
+## 🙋‍♂️ About Me
 
 I'm from Vietnam, currently based in Ho Chi Minh City 🌏. I'm a final-year Computer Science student with a strong passion for Artificial Intelligence, specializing in Natural Language Processing (NLP) and Computer Vision.
 
 I am actively seeking opportunities in AI research or applied machine learning roles, where I can contribute to developing real-world AI solutions. My interests lie in deep learning, transformer architectures, and efficient AI models.
 
-## 🔭 I'm currently working on
+
+## 💪 Projects I'm Currently Working On
 
 - ...
 
