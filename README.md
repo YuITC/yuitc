@@ -20,11 +20,16 @@ I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. As a 3rd-yea
 
 I'm actively seeking opportunities in **cutting-edge AI research** and **applied AI development**, where I can contribute to the next generation of intelligent systems. My interests include:
 
+<!--
 - **Agent AI & Autonomous Systems**: Developing AI agents capable of reasoning, decision-making, and adaptive learning in dynamic environments.
 - **Multimodal AI**: Bridging vision, language, and audio processing to create more intuitive AI models.
 - **Generative AI & Foundation Models**: Exploring large-scale pre-trained models (LLMs, Diffusion Models) and their real-world applications.
 - **AI for Real-World Applications**: Applying AI to solve practical problems in industries like healthcare, finance, and robotics.
-
+-->
+- **Agent AI & Autonomous Systems**: Building AI agents with reasoning, decision-making, and adaptive learning.
+- **Multimodal AI**: Integrating vision, language, and audio for more intuitive models.
+- **Generative AI & Foundation Models**: Exploring LLMs, Diffusion Models, and real-world applications.
+- **AI for Real-World Applications**: Solving practical problems in healthcare, finance, and robotics.
 
 ## 💪 Projects I'm Currently Working On
 
