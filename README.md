@@ -1,16 +1,19 @@
 <h1 align="center">
   
   Hi there 👋, my name is Tai!
-  
+  <!--
   [![Gmail link](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tainguyenphu2502@gmail.com)
   [![Linkedin link](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/tainguyenphu2502/)
   [![Facebook link](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/taiphu2502/)
+  -->
 </h1>
 
 
-## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=yuitc" />
+<!-- ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=yuitc" /> -->
 
 I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. As a 3rd-year **Computer Science student** at **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, I have a deep passion for Artificial Intelligence, with a specialization in Natural Language Processing (NLP) and Computer Vision (CV).
+
+<img src="https://komarev.com/ghpvc/?username=yuitc" />
 
 
 ## 🔍 **What I'm Exploring & Looking For**
