@@ -11,7 +11,7 @@
 
 <!-- ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=yuitc" /> -->
 
-I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. As a 3rd-year **Computer Science student** at **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, I have a deep passion for Artificial Intelligence, with a specialization in Natural Language Processing (NLP) and Computer Vision (CV).
+I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. As a 3rd-year **Computer Science student** at **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, I have a deep passion for Artificial Intelligence, with a specialization in **Natural Language Processing** (NLP) and **Computer Vision** (CV).
 
 <img src="https://komarev.com/ghpvc/?username=yuitc" />
 
