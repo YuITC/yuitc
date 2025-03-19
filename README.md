@@ -31,10 +31,6 @@ I'm actively seeking opportunities in **cutting-edge AI research** and **applied
 - **Generative AI & Foundation Models**: Exploring LLMs, Diffusion Models, and real-world applications.
 - **AI for Real-World Applications**: Solving practical problems in healthcare, finance, and robotics.
 
-## 💪 Projects I'm Currently Working On
-
-- ...
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuitc&show_icons=true" alt="yuitc" /> </p>
 
 ## 👨‍💻 My Tech Stack
