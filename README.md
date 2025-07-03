@@ -2,19 +2,32 @@
 
 I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. 
 
-I'm a final-year **Computer Science** student at the **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, deeply passionate about **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **Agent AI**.
+I'm a third-year **Computer Science** student at the **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, deeply passionate about **MLP**, **LLMs**, and **Agentic AI**.
 
 <img src="https://komarev.com/ghpvc/?username=yuitc" />
 
 
 ## 🔍 **What I'm Exploring & Looking For**
-I'm actively seeking practical opportunities in **cutting-edge AI research** and **applied AI development**, where I can contribute to the next generation of intelligent systems. My interests include:
-- **Agent AI & Autonomous Systems**: Building AI agents with reasoning, decision-making, and adaptive learning.
-- **Generative AI & Foundation Models**: Exploring LLMs, Diffusion Models, and real-world applications.
-- **AI for Real-World Applications**: Solving practical problems in healthcare, finance, and robotics.
-- **Multimodal AI**: Integrating vision, language, and audio for more intuitive models.
+I'm actively seeking **opportunities** where I can:
+- Learn from and contribute to **cutting-edge AI research**, especially in the realms of foundation models and agent-based systems.
+- Develop **real-world AI applications**, with clear product impact, scalability, and user-centric design.
+- **Collaborate with forward-thinking teams** that value deep technical rigor, open research culture, and practical innovation.
+
+Current **Areas of Interest**:
+- **Language Models & Agentic AI**: Designing LLMs or agentic AI systems to contribute to the development of this highly promising field.
+- **Multimodal AI**: Integrating vision, language, and other modalities to build richer, more capable models.
+- **Applied AI**: Using AI to power intelligent automation, enhance developer tools, and create domain-specific assistants.
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuitc&show_icons=true" alt="yuitc" /> </p>
+
+## 📫 Get in Touch
+If you're working on something exciting in AI or think we might collaborate well — I'd love to connect!
+- 📄 Resume: [View my resume](https://drive.google.com/drive/folders/1Q3Sc0JyJNVxnBwMyesfbQCXvDVjyaKkg?usp=sharing)
+- 💼 Portfolio: [Explore my works](https://yuitc.github.io/Tai-Nguyen-Phu-Portfolio/)
+- 🌐 Linkedin: [Connect with me via Linkedin](https://www.linkedin.com/in/tainguyenphu2502/)
+- 📧 Email: [tainguyenphu2502@gmail.com](mailto:tainguyenphu2502@gmail.com)
+- 📱 Phone: +84 945 409 269
+
 
 <!-- ## 👨‍💻 My Tech Stack 
 
