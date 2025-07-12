@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Tai!</h1>
 
-I'm from **Vietnam**, currently based in **Ho Chi Minh City** 🌏. 
-
-I'm a third-year **Computer Science** student at the **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, deeply passionate about **MLP**, **LLMs**, and **Agentic AI**.
+I'm a third-year **Computer Science** student at the **[University of Information Technology](https://www.uit.edu.vn/) (UIT - VNUHCM)**, deeply passionate about **MLP**, **LLMs**, **Generative AI** and **Agentic AI**.
 
 <img src="https://komarev.com/ghpvc/?username=yuitc" />
 
@@ -19,6 +17,7 @@ Current **Areas of Interest**:
 - **Applied AI**: Using AI to power intelligent automation, enhance developer tools, and create domain-specific assistants.
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuitc&show_icons=true" alt="yuitc" /> </p>
+
 
 ## 📫 Get in Touch
 If you're working on something exciting in AI or think we might collaborate well — I'd love to connect!
