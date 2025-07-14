@@ -4,6 +4,7 @@ I'm a third-year **Computer Science** student at the **[University of Informatio
 
 <img src="https://komarev.com/ghpvc/?username=yuitc" />
 
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YuITC)
 
 ## 🔍 **What I'm Exploring & Looking For**
 I'm actively seeking **opportunities** where I can:
