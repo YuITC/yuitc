@@ -24,7 +24,7 @@ Current **Areas of Interest**:
 
 ## 📫 Get in Touch
 If you're working on something exciting or think we might collaborate well, I'd love to connect!
-- 📄 Resume: [View my resume](https://drive.google.com/drive/folders/1Q3Sc0JyJNVxnBwMyesfbQCXvDVjyaKkg?usp=sharing)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1CXMHrxVtsMRZ75G3OJ21k6mb14F9kmi6/view?usp=sharing)
 - 🌐 LinkedIn: [Connect with me via LinkedIn](https://www.linkedin.com/in/taingph2502/)
 - 📧 Email: [tainguyenphu2502@gmail.com](mailto:tainguyenphu2502@gmail.com)
 - 📱 Phone: +84 945 409 269
