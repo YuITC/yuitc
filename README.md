@@ -16,4 +16,4 @@ If you're working on something exciting or think we might collaborate well, I'd 
 - 🌐 LinkedIn: [Connect with me via LinkedIn](https://www.linkedin.com/in/yuitc/)
 - 📧 Email: [tainguyenphu2502@gmail.com](mailto:tainguyenphu2502@gmail.com)
 - 📱 Phone: +84 945 409 269
-- 💼 Portfolio: [Explore my works](https://yuitc.github.io/Tai-Nguyen-Phu-Portfolio/)
+- 💼 Portfolio: [Explore my works](https://yuitc.github.io/portfolio/)
